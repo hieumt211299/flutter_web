@@ -56197,7 +56197,7 @@ A.a1f.prototype={
 $0(){this.a.d+=10},
 $S:0}
 A.a1g.prototype={
-$0(){A.aiG(this.a,"/second")},
+$0(){A.aiG(this.a,"/update")},
 $S:0}
 A.ny.prototype={
 O(a){var s=null
